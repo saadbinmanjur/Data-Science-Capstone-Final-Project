@@ -1,4 +1,4 @@
-# Data-Science-Capstone-Final-Project
+# Data Science Capstone Final Project
 ## Let's Predict the Word
 
 
@@ -45,3 +45,6 @@ Of course, not all possible words or phrases exist in the corpus from which the 
 ### Conclusion
 
 This report has shown features the R package "wordprediction". It was designed using samples of 1000 words each from a corpus of collections English words. As shown in a demonstration, all phrases and words submitted to the function "katz_backoff_model" result in a prediction in the form of a single word returned.
+
+
+##### My First Shiny app
