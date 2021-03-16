@@ -1,0 +1,10 @@
+name: Publish Document
+title:
+username:
+account: rpubs
+server: rpubs.com
+hostUrl: rpubs.com
+appId: https://api.rpubs.com/api/v1/document/740012/17365dcc82d14ec58aed67559c6224f5
+bundleId: https://api.rpubs.com/api/v1/document/740012/17365dcc82d14ec58aed67559c6224f5
+url: http://rpubs.com/saadbinmanjur/740012/edit
+when: 1615917866.49274
