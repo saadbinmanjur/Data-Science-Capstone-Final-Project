@@ -1,0 +1,13 @@
+name: Lets_Predict_The_Word
+title: Lets_Predict_The_Word
+username:
+account: saadbinmanjur
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3802060
+bundleId: 4354145
+url: https://saadbinmanjur.shinyapps.io/Lets_Predict_The_Word/
+when: 1615916384.1618
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: Coursera-SwiftKey.zip|report.Rmd
